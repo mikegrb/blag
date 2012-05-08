@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Browsing in OSX
+wordpress_id: 11
+wordpress_url: http://michael.thegrebs.com/2005/05/02/11/
+date: 2005-05-02 17:17:46 -04:00
+comments: yes
+---
+A new Camino just came out most of the changes are under the hood.  Lately I've missed the ability to run Firefox extentions in Camino.  The Firefox Scrapbook plugin <a href="http://usefulinc.com/edd/blog/contents/2005/04/27-scrapbook/read">edd talked about</a> has caused me to install Firefox again on my iBook.  I also look forward to being able to use <a href="http://extensionroom.mozdev.org/more-info/sessionsaver">SessionSaver</a> again as well.
+      <ul>
+        <li> Fixed a critical issue with Mac OS X 10.4 and opening a new tab when viewing a page with a plug-in.</li>
+	   <li> Long tooltips in web pages now wrap to multiple lines in order to be more readable.</li>
+	   <li> Fixed several critical security issues. All users are recommended
+        to upgrade.</li>
+        <li>Fixed a top-crash when dragging the scroll bar while
+          loading pages</li>
+
+        <li>Fixed an issue where some localized versions could not
+            set the monospace font</li>
+      </ul>

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Caker
+wordpress_id: 27
+wordpress_url: http://michael.thegrebs.com/2005/05/19/caker/
+date: 2005-05-19 21:39:25 -04:00
+comments: yes
+---
+Caker is sculpted from pure cake.

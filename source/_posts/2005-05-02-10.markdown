@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: ":&lt;"
+wordpress_id: 10
+wordpress_url: http://michael.thegrebs.com/2005/05/02/10/
+date: 2005-05-02 16:30:47 -04:00
+comments: yes
+---
+I put my shoe on and their was a wasp in it, pain followed.

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: mmm pizza
+wordpress_id: 31
+wordpress_url: http://michael.thegrebs.com/2005/05/30/mmm-pizza/
+date: 2005-05-30 21:20:26 -04:00
+comments: yes
+---
+<pre>21:10:11        fo0bar |  I want a pizza with pizza-bagels as toppings</pre>
