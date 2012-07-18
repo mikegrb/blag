@@ -33,6 +33,7 @@ Earlier this month I gave a talk about ...
 ```
 The tags field really can appear anywhere in this YAML fragment but I chose to throw it at the end.  With 103 posts to loop over, run a query and insert a new line a short script makes sense.  The real win for our script though is using the [Tie::File](https://metacpan.org/module/Tie::File) module which presents each file as an array with an element for each line.
 
+<!-- more -->
 
 From there it's simply a matter of reverse engineering the Wordpress schema to come up with a query that will return a space delimited list of tags for a given post id.
 
