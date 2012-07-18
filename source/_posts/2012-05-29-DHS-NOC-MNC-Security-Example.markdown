@@ -10,6 +10,8 @@ The Media Monitoring Capability of the The Department of Homeland Security's Nat
 
 Through a Freedom of Information Act request their [Analyst's Desktop Binder](/assets/2012/AnalystDesktopBinder-Redacted-.pdf) (4.4 MB PDF) was made publicly available.  This is essentially the employee manual for MMC analysts, describing how to preform their job.  There are quite a few very interesting tid bits in it such as the list of keywords and search terms used when searching social media sites.
 
+<!-- more -->
+
 Section 2.6 beginning on page 14 lists credible sources broken out into various tiers.  Local affiliates of the major networks are considered first tier sources and don't require any additional corroboration prior to release.  Meanwhile, all blogs "even if they are of a serious, political nature," are considered third tier sources and must be corroborated by a first tier source.
 
 Also of interest were screen shots of various interfaces they use such as the Item Of Interest (IOI) report screen used to log an article and useful metadata.
