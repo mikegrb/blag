@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: In Perl, Debugging with Binary Data Structures
-date: 2013-05-19 01:20:40 -04:00
+date: 2014-05-19 01:20:40 -04:00
 tags: data geek perl dump debug
 comments: yes
 ---

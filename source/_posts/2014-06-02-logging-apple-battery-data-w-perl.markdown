@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Logging Apple Battery Data with Perl
-date: 2013-06-02 06:04:45 -04:00
+date: 2014-06-02 06:04:45 -04:00
 tags: data geek perl apple battery
 comments: yes
 ---
